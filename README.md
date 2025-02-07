@@ -3,7 +3,7 @@
 ## 📚 Table of Contents  
 1. [📊 Project Overview](#-project-overview)  
 2. [🎯 Key Objectives](#-key-objectives)  
-3. [🛠️ Tools & Technologies](#tools--technologies)  
+3. [🛠️ Tools](#-tools)  
 4. [🔍 Data Analysis Workflow](#-data-analysis-workflow)  
    - [1️⃣ Data Cleaning](#1️⃣-data-cleaning)  
    - [2️⃣ Exploratory Data Analysis (EDA)](#2️⃣-exploratory-data-analysis-eda)  
@@ -31,7 +31,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on a car p
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 - **Python:** Core language for data analysis.  
 - **Pandas & NumPy:** Efficient data manipulation and numerical operations.  
 - **Matplotlib & Seaborn:** Stunning data visualizations and correlation heatmaps.  
