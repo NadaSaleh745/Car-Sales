@@ -31,7 +31,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on a car p
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies
 - **Python:** Core language for data analysis.  
 - **Pandas & NumPy:** Efficient data manipulation and numerical operations.  
 - **Matplotlib & Seaborn:** Stunning data visualizations and correlation heatmaps.  
