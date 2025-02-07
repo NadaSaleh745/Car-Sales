@@ -3,7 +3,7 @@
 ## 📚 Table of Contents  
 1. [📊 Project Overview](#-project-overview)  
 2. [🎯 Key Objectives](#-key-objectives)  
-3. [🛠️ Tools & Technologies](#tools-and-technologies)  
+3. [🛠️ Tools & Technologies](#-tools-and-technologies)  
 4. [🔍 Data Analysis Workflow](#-data-analysis-workflow)  
    - [1️⃣ Data Cleaning](#1️⃣-data-cleaning)  
    - [2️⃣ Exploratory Data Analysis (EDA)](#2️⃣-exploratory-data-analysis-eda)  
