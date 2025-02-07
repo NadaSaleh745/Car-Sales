@@ -1,5 +1,4 @@
 # 🚗 Car-Sales  
-## Car Purchase Data Analysis  
 
 ## 📚 Table of Contents  
 1. [📊 Project Overview](#-project-overview)  
